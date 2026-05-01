@@ -3,3 +3,10 @@ api/node_modules
 api/build
 api/.env
 api/.idea
+
+
+web/node_modules
+web/.env
+web/dist
+web/.vscode
+web/.idea
